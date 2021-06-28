@@ -1,7 +1,7 @@
 <h1 align="center"Welcom</h1>
 
 <p align="center">Hello there! I am <a href="https://github.com/Juan-Motta">Juan Motta</a><br><br>
-💻Currently studying in Universidad Nacional!💻<br>
+💻Currently studying in Universidad Nacional!💻<br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Motta&show_icons=true&theme=buefy" width="400">
  
