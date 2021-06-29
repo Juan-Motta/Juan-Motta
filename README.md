@@ -7,7 +7,7 @@
  
  <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact&hide=javascript" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact" width="400">
 
 
 </p>
