@@ -27,14 +27,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Motta&show_icons=true" width="400"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact" width="400">
 </div>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JSX          24 hrs 1 min    ███████████████████▓░░░░░   78.56 % 
-JavaScript   5 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 % 
-JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-CSS          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
-<!--END_SECTION:waka-->
