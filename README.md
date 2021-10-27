@@ -32,3 +32,20 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Motta&show_icons=true" width="400"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact" width="400">
 </div>
+
+<br>
+ 🔥 Contributions: 
+ <br>
+ <br>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Juan-Motta&theme=default">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Juan-Motta&hide_border=true&hide_title=true&bg_color=fff&color=000&line=007bcd">
+  </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Juan-Motta&label=Profile%20views&color=0e75b6&style=flat" alt="knackie" /> </p>
