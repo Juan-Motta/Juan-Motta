@@ -34,7 +34,7 @@
 </div>
 
 <br>
- 🔥 Contributions: 
+ 🔥 Contributions
  <br>
  <br>
 
