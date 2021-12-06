@@ -30,8 +30,8 @@
 <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div><br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Motta&show_icons=true" width="500"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact&langs_count=6" width="500">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Motta&show_icons=true" width="400"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact&langs_count=6" width="400">
 </div>
 
 <br>
