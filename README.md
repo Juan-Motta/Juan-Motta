@@ -1,6 +1,6 @@
 <h1 align="center"Welcom</h1>
 
-<p align="center">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I am <a href="https://github.com/Juan-Motta">Juan Motta</a><br><br>
+<p align="center">Hi there!, I am <a href="https://github.com/Juan-Motta">Juan Motta</a><br><br>
 💻I'm Electrical Engineer and Web developer!💻<br><br>
  
 <p align="center">
